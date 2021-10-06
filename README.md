@@ -28,7 +28,7 @@ git add .
 
 ### 3. 파일의 상태를 확인 (status)
 #### 파일들의 변경사항 및 git에 추가해야할 파일이 있는지 확인할 때 사용
-#### 스테이징 된 파일(Changes to be committed), 커밋해야 하는 변경사항이 있는 파일(Changes not staged for commit), git(Untracked files)에 추가해야할 파일등 구분할 수 있음
+#### 스테이징 된 파일(Changes to be committed), 커밋해야 하는 변경사항이 있는 파일(Changes not staged for commit), git에 추가해야할 파일(Untracked files) 등 구분할 수 있음
 ```
 git status
 ```
